@@ -38,6 +38,8 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 
 ---
 
+[![Sasudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasudul)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Current Projects
 
 * IOT Landslide Alerting System (Firebase + C++)
