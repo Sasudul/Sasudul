@@ -38,7 +38,6 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 
 ---
 
-[![Sasudul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sasudul&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
 
