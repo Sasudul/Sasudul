@@ -38,7 +38,22 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasudul)]([YOUR_PROFILE_URL](https://github.com/Sasudul/))
+<div align="center">
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&hide_rank=true" 
+        alt="Sasundul Wanasingha GitHub Stats" 
+        style="margin-bottom: 10px;"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=tokyonight&hide_border=true" 
+        alt="Sasundul Wanasingha Top Languages"
+        style="margin-bottom: 10px;"
+    />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=Sasudul&theme=tokyonight&hide_border=true" 
+        alt="Sasundul Wanasingha Streak Stats"
+    />
+</div>
+
+---
 
 ## Current Projects
 
@@ -55,4 +70,3 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 
 * **Email:** *sasuduln@gmail.com*
 * **Portfolio Website:** *coming soon!*
-
