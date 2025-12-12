@@ -37,18 +37,33 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 </p>
 
 ---
+<div align="center" style="background: linear-gradient(145deg, #0d1117, #161b22); 
+            border-radius: 14px; 
+            padding: 24px; 
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.6);">
 
-<div align="center">
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&hide_rank=true" 
-        alt="Sasundul Wanasingha GitHub Stats" 
-        style="margin-bottom: 10px;"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=tokyonight&hide_border=true" 
-        alt="Sasundul Wanasingha Top Languages"
-        style="margin-bottom: 10px;"
-    />
+  <h2 style="color: #58a6ff; font-weight: 600; letter-spacing: 1px; margin-bottom: 16px;">
+    📊 GitHub Analytics
+  </h2>
+
+  <p style="color: #8b949e; font-size: 14px; margin-bottom: 24px;">
+    A snapshot of my GitHub activity and most-used technologies
+  </p>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&line_height=28" 
+    alt="Sasudul Wanasingha GitHub Stats"
+    style="max-width: 100%; margin-bottom: 18px;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Sasudul Wanasingha Top Languages"
+    style="max-width: 100%;"
+  />
+
 </div>
+
 
 ---
 
