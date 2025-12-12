@@ -38,7 +38,7 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasudul)](YOUR_PROFILE_URL)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasudul)]([YOUR_PROFILE_URL](https://github.com/Sasudul/))
 
 ## Current Projects
 
