@@ -37,32 +37,51 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 </p>
 
 ---
-<div align="center" style="background: linear-gradient(145deg, #0d1117, #161b22); 
-            border-radius: 14px; 
-            padding: 24px; 
-            box-shadow: 0 0 25px rgba(0, 0, 0, 0.6);">
 
-  <h2 style="color: #58a6ff; font-weight: 600; letter-spacing: 1px; margin-bottom: 16px;">
-    📊 GitHub Analytics
-  </h2>
+<div style="
+    background-color: #0d1117;
+    border: 1px solid #21262d;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 820px;
+">
 
-  <p style="color: #8b949e; font-size: 14px; margin-bottom: 24px;">
-    A snapshot of my GitHub activity and most-used technologies
+  <h3 style="
+      color: #e6edf3;
+      font-weight: 500;
+      margin-bottom: 6px;
+  ">
+    GitHub Statistics
+  </h3>
+
+  <p style="
+      color: #9da7b1;
+      font-size: 13px;
+      margin-top: 0;
+      margin-bottom: 18px;
+  ">
+    Overview of activity and language usage
   </p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&line_height=28" 
-    alt="Sasudul Wanasingha GitHub Stats"
-    style="max-width: 100%; margin-bottom: 18px;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Sasudul Wanasingha Top Languages"
-    style="max-width: 100%;"
-  />
+  <div style="
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+  ">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&line_height=28"
+      alt="Sasudul Wanasingha GitHub Stats"
+      style="flex: 1; min-width: 280px;"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=github_dark&hide_border=true"
+      alt="Sasudul Wanasingha Top Languages"
+      style="flex: 1; min-width: 280px;"
+    />
+  </div>
 
 </div>
+
 
 
 ---
