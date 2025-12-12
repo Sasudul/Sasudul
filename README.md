@@ -48,9 +48,6 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
         alt="Sasundul Wanasingha Top Languages"
         style="margin-bottom: 10px;"
     />
-    <img src="https://github-readme-streak-stats.demolab.com/?user=Sasudul&theme=tokyonight&hide_border=true" 
-        alt="Sasundul Wanasingha Streak Stats"
-    />
 </div>
 
 ---
