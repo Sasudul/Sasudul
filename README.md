@@ -12,28 +12,23 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 ## Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" /> </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastapi,cs,cpp,rust" /></p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongo,firebase" />
-</p>
+ <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" /> </p>
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,xml" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter" /> </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github" />
+<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,idea,androidstudio,figma,notion,unity,aws,arduino,appwrite"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo" />
 </p>
 
 ---
