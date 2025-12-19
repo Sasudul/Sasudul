@@ -68,16 +68,14 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
       flex-wrap: wrap;
       gap: 16px;
   ">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Sasudul&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&line_height=28"
-      alt="Sasudul Wanasingha GitHub Stats"
-      style="flex: 1; min-width: 280px;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasudul&layout=compact&theme=github_dark&hide_border=true"
-      alt="Sasudul Wanasingha Top Languages"
-      style="flex: 1; min-width: 280px;"
-    />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=sasudul&hide=issues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasudul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
   </div>
 
 </div>
