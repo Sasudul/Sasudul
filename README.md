@@ -1,11 +1,32 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.postimg.cc/HxX2JQL4/bannerfn.png" alt="Banner" width="100%" height ="800px" style="max-width:900px; border-radius:10px;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sasundul Wanasingha</h1>
 <h3 align="center">HND Software Engineering Student at NIBM | Full-Stack Developer</h3>
+
+---
+<p align="center">
+  <a href="https://github.com/sasudul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sasuduln@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/0740629020" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%230075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I am a passionate software engineering student learning at NIBM colombo faculty, currently focused on **Full-Stack Development** and **Mobile Development**.
+I am a passionate software engineering student learning at NIBM Colombo, currently focused on **Full-Stack Development** and **Mobile Development**.
 
 ---
 
@@ -26,7 +47,6 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 </p>
 
 ### Backend Frameworks/APIs
-<p>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
@@ -35,7 +55,7 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
   <img src="https://img.shields.io/badge/ORDS-%23F80000.svg?logo=oracle&logoColor=white"/>
 </p>
 
-### Databases and clould
+### Databases & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS_SQL_Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"/>
@@ -44,7 +64,6 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?logo=supabase&logoColor=white"/>
 </p>
-
 
 ### Mobile Development
 <p align="left">
@@ -60,14 +79,13 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?logo=visual-studio&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?logo=pycharm&logoColor=white"/>
 </p>
 
 ---
-
 <div style="
     background-color: #0d1117;
     border: 1px solid #21262d;
@@ -108,12 +126,6 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 ###
   </div>
 
-</div>
-
-
-
----
-
 ## Current Projects
 
 * IOT Landslide Alerting System (Firebase + C++)
@@ -123,9 +135,3 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 * Budgetly Expense Tracker Mobile App (Java + SQLite + Oracle + ORDS)
 * Art Gallery Website (PHP + SQL)
 
----
-
-## Contact Me
-
-* **Email:** *sasuduln@gmail.com*
-* **Portfolio Website:** *coming soon!*
