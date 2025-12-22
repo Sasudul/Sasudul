@@ -12,23 +12,58 @@ I am a passionate software engineering student learning at NIBM colombo faculty,
 ## Tech Stack
 
 ### Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-%23007396.svg?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python(Beginner)-%2314354C.svg?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust(Beginner)-%23000000.svg?logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-%23F00000.svg?logo=oracle&logoColor=white"/>
+</p>
 
-### Backend
+### Backend Frameworks/APIs
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastapi,cs,cpp,rust" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORDS-%23F80000.svg?logo=oracle&logoColor=white"/>
+</p>
 
-### Databases
-<p>
- <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" /> </p>
+### Databases and clould
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?logo=supabase&logoColor=white"/>
+</p>
+
 
 ### Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Android(Java)-%233DDC84.svg?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23E34F26.svg?logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter(Beginner)-%2302569B.svg?logo=flutter&logoColor=white"/>
+</p>
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,idea,androidstudio,figma,notion,unity,aws,arduino,appwrite"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo" />
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?logo=visual-studio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?logo=pycharm&logoColor=white"/>
 </p>
 
 ---
