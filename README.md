@@ -132,9 +132,8 @@ I am a passionate software engineering student learning at NIBM Colombo, current
   ">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sasudul&show=issues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasudul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sasudul&show_icons=true&title_color=007fff&text_color=ffffff&icon_color=007fff&bg_color=0d1117&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sasudul&layout=compact&langs_count=8&title_color=007fff&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
