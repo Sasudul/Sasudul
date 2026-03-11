@@ -141,8 +141,8 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 
 ## Current Projects
 
-* Fleet Tracking and Management System (Angular + Spring Boot)
-* E-Channeling System (React + Spring Boot Microservices)
-* Real-time Event Booking Mobile App(Java + React Native + Appwrite)
-* Lumina Car Marketing Campain Website (React + Typescript + Tailwind css)
+* Infora - An multilingual Conversational AI System  (React Native • React.js • Tailwind CSS • Spring Boot • Java • Firebase • Firestore)
 
+* Tamsil Art Collection - An Art Gallery Display and CMS (Next.js • React.js • Tailwindcss • Firebase)
+
+FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
