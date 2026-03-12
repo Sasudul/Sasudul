@@ -13,7 +13,6 @@
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:sasuduln@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -132,12 +131,26 @@ I am a passionate software engineering student learning at NIBM Colombo, current
   ">
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sasudul&show_icons=true&title_color=007fff&text_color=ffffff&icon_color=007fff&bg_color=0d1117&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sasudul&layout=compact&langs_count=8&title_color=007fff&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sasudul&show_icons=true&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71&bg_color=0d1117&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sasudul&layout=compact&langs_count=8&title_color=2ecc71&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasudul&background=0d1117&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats" />
 </div>
-
+ 
 ###
   </div>
+
+  <div align="center">
+  <h3> Profile Analytics</h3>
+  <img src="https://komarev.com/ghpvc/?username=sasudul&color=2ecc71&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sasudul?label=Followers&style=for-the-badge&color=2ecc71" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/sasudul?label=Profile%20Stars&style=for-the-badge&color=2ecc71" alt="GitHub Stars"/>
+</div>
+<br>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasudul&bg_color=1a1b27&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=false&border_color=2ecc71" width="95%" />
 
 ## Current Projects
 
@@ -145,4 +158,4 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 
 * Tamsil Art Collection - An Art Gallery Display and CMS (Next.js • React.js • Tailwindcss • Firebase)
 
-FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
+* FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
