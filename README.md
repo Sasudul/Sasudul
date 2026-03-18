@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Sasundul Wanasingha</h1>
 <h3 align="center">HND Software Engineering Student at NIBM | Full-Stack Developer</h3>
 
----
 <p align="center">
   <a href="https://github.com/sasudul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -155,7 +154,5 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 ## Current Projects
 
 * Infora - An multilingual Conversational AI System  (React Native • React.js • Tailwind CSS • Spring Boot • Java • Firebase • Firestore)
-
-* Tamsil Art Collection - An Art Gallery Display and CMS (Next.js • React.js • Tailwindcss • Firebase)
 
 * FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
