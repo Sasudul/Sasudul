@@ -153,6 +153,6 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 
 ## Current Projects
 
-* Infora - An multilingual Conversational AI System  (React Native • React.js • Tailwind CSS • Spring Boot • Java • Firebase • Firestore)
+* Infora - An multilingual Conversational AI System  (React Native • Next js • React.js • Tailwind CSS • Spring Boot • Java • Firebase )
 
 * FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
