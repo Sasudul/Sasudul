@@ -3,8 +3,8 @@
   <img src="https://i.postimg.cc/HxX2JQL4/bannerfn.png" alt="Banner" width="100%" height ="800px" style="max-width:900px; border-radius:10px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sasundul Wanasingha</h1>
-<h3 align="center">HND Software Engineering Student at NIBM | Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Sasundul Wanasinghe</h1>
+<h3 align="center">Computer Science with Applied AI Undergraduate at NIBM | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/sasudul" target="_blank">
@@ -18,6 +18,9 @@
   <a href="https://wa.me/0740629020" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
+    <a href="https://sasundul.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-C469E0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 </p>
 
 ---
@@ -42,7 +45,7 @@ I am a passionate software engineering student learning at NIBM Colombo, current
   <img src="https://img.shields.io/badge/PL%2FSQL-%23F00000.svg?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_(Beginner)-%2314354C.svg?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust_(Beginner)-%23000000.svg?logo=rust&logoColor=white"/>
 </p>
 
@@ -153,6 +156,8 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 
 ## Current Projects
 
+* Mind Mirror AI - An Emotion detection and Conversational AI System  (Express js• Next js • React.js  • Firebase )
+  
 * Infora - An multilingual Conversational AI System  (React Native • Next js • React.js • Tailwind CSS • Spring Boot • Java • Firebase )
 
 * FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
