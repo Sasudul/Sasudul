@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.postimg.cc/HxX2JQL4/bannerfn.png" alt="Banner" width="100%" height ="800px" style="max-width:900px; border-radius:10px;">
-</p>
 
 <h1 align="center">Hi 👋, I'm Sasundul Wanasinghe</h1>
 <h3 align="center">Computer Science with Applied AI Undergraduate at NIBM | Full-Stack Developer</h3>
@@ -26,81 +22,107 @@
 ---
 
 ## About Me
-
-I am a passionate software engineering student learning at NIBM Colombo, currently focused on **Full-Stack Development** and **Mobile Development**.
+<p>
+Computer Science with Applied AI undergraduate building AI-powered and full-stack applications 
+through freelance, academic, and independent product work. I combine hands-on experience in LLM/API integration, ML 
+pipelines, computer vision, full-stack architecture, and user-focused design. My practical experience shows end-to-end 
+ownership: translating unclear problems into usable systems, designing secure APIs and data models, and using AI as an 
+engineering accelerator rather than a shortcut. 
+</p>
 
 ---
-
 ## Tech Stack
 
-## Programming Languages
-<p align="left">
+#### Programming Languages
+<p align="justify">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-%23007396.svg?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300f.svg?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-%23F00000.svg?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust_(Beginner)-%23000000.svg?logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white"/>
 </p>
 
-##  Frontend Frameworks, UI Libraries & APIs
+#### Backend Development & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-%23000000.svg?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-%23A30000.svg?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-%23010101.svg?logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORDS-%23F80000.svg?logo=oracle&logoColor=white"/>
 </p>
 
-## Databases & Backend Services
+#### Frontend Development & UI/UX
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white"/>
+</p>
+
+#### AI, Machine Learning & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Integration-%23000000.svg?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-%2300C853.svg?logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-%23000000.svg?logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-%23FFF000.svg?logo=duckdb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ML_Pipelines-%23000000.svg?logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/face--api.js-%23000000.svg?logo=javascript&logoColor=white"/>
+</p>
+
+ #### Databases & Cloud Backend Services
+<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-%2308E52D.svg?logo=supabase&logoColor=white"/>
 </p>
 
-##  Mobile Application Development
+ #### Mobile Application Development
 <p align="left">
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-%23000020.svg?logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_(Java)-%233DDC84.svg?logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-%23E34F26.svg?logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-%2308A9AF.svg?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter_(Beginner)-%2302569B.svg?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23E34F26.svg?logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Camera%2FImage_Workflows-%23000000.svg?logo=opencv&logoColor=white"/>
 </p>
 
-##  Tools, Platforms & IDEs
-<p align="left">
+ #### DevOps, Tools & Platforms
+<p align="justify">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-%23000000.svg?logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-%23FFDE59.svg?logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
 </p>
 
 ---
+
 <div style="
     background-color: #0d1117;
     border: 1px solid #21262d;
@@ -109,14 +131,9 @@ I am a passionate software engineering student learning at NIBM Colombo, current
     max-width: 820px;
 ">
 
-  <h3 style="
-      color: #e6edf3;
-      font-weight: 500;
-      margin-bottom: 6px;
-  ">
-    GitHub Statistics
-  </h3>
 
+   ## GitHub Statistics
+   
   <p style="
       color: #9da7b1;
       font-size: 13px;
@@ -151,13 +168,3 @@ I am a passionate software engineering student learning at NIBM Colombo, current
 </div>
 <br>
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasudul&bg_color=1a1b27&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=false&border_color=2ecc71" width="95%" />
-
-## Current Projects
-
-* Mind Mirror AI - An Emotion detection and Conversational AI System  (Express js• Next js • React.js  • Firebase )
-  
-* Infora - An multilingual Conversational AI System  (React Native • Next js • React.js • Tailwind CSS • Spring Boot • Java • Firebase )
-
-* FloodNav – Disaster Response Routing System(Java 17 • Spring Boot • React 18 • TypeScript • Tailwind CSS)
